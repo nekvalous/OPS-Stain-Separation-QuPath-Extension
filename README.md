@@ -1,2 +1,2 @@
-# OPS-Stain-Separation-QuPath-Extension
-OPS Stain Separation (QuPath extension)
+# OPS Stain Separation (QuPath extension)
+Stain separation using the 2D Orthogonal Planes Split
