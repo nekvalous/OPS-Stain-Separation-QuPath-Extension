@@ -19,6 +19,11 @@ Website: https://nekvalous.github.io
 
 Requirement: QuPath 0.7.0
 
+Choose one of the installation methods below.
+
+
+A. MANUAL INSTALLATION
+
 1. Download qupath-extension-ops-stain-separation.jar.
 2. Close QuPath and remove older or duplicate OPS QuPath extension JARs
    from your QuPath user directory's extensions folder.
@@ -26,6 +31,29 @@ Requirement: QuPath 0.7.0
 4. Accept installation. Select a user directory if prompted.
 5. Restart QuPath.
 6. Open Extensions > OPS Stain Separation > Separate Stains...
+
+
+B. INSTALLATION THROUGH THE QUPATH EXTENSION MANAGER
+
+If you previously installed OPS manually, remove that copy and restart
+QuPath before using this method.
+
+1. Open QuPath and select Extensions > Manage extensions.
+2. Click Manage extension catalogs.
+3. Enter the following repository URL and click Add:
+
+   https://github.com/nekvalous/OPS-Stain-Separation-QuPath-Extension
+
+4. Return to the extension manager and find OPS Stain Separation.
+5. Click the green + button next to the extension.
+6. Select version 1.9.1 and click Install. Select a user directory if prompted.
+7. Restart QuPath.
+8. Open Extensions > OPS Stain Separation > Separate Stains...
+
+Add the catalog only once. For future updates, open Extensions >
+Manage extensions, click the cog button next to OPS Stain Separation,
+select the desired compatible version, and click Update. Restart QuPath
+after updating.
 
 
 
