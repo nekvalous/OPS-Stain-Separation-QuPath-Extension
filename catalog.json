@@ -1,0 +1,22 @@
+{
+  "name": "Nektarios Valous extensions",
+  "description": "QuPath extensions maintained by Nektarios Valous.",
+  "extensions": [
+    {
+      "name": "OPS Stain Separation",
+      "description": "Two- and three-stain separation for images, whole slides, and selected annotations.",
+      "author": "Nektarios Valous",
+      "homepage": "https://github.com/nekvalous/OPS-Stain-Separation-QuPath-Extension",
+      "releases": [
+        {
+          "name": "v1.9.1",
+          "main_url": "https://github.com/nekvalous/OPS-Stain-Separation-QuPath-Extension/releases/download/v1.9.1/qupath-extension-ops-stain-separation-1.9.1.jar",
+          "version_range": {
+            "min": "v0.7.0",
+            "max": "v0.7.0"
+          }
+        }
+      ]
+    }
+  ]
+}
